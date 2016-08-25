@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - vote2016@localhost" uuid="f812f390-8fd6-468e-bc03-6ec6abf6c5e6">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>vote2016:</introspection-scope>
+      <resolve-scope>vote2016:</resolve-scope>
+    </data-source>
+  </component>
+</project>
